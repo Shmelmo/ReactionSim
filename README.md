@@ -2,5 +2,5 @@
 Chemistry Project Summer 2020
 
 Data in outReactionSim.txt, 
-Code for Sim in ideal_gas.py,
-Code for graph production in grapher.py
+code for sim in ideal_gas.py,
+code for graph production in grapher.py
