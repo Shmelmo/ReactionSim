@@ -1,0 +1,119 @@
+Temperature: 0.10
+Percentage which reacted: 8.40%
+Temperature: 0.11
+Percentage which reacted: 4.80%
+Temperature: 0.12
+Percentage which reacted: 12.00%
+Temperature: 0.13
+Percentage which reacted: 10.80%
+Temperature: 0.14
+Percentage which reacted: 15.20%
+Temperature: 0.15
+Percentage which reacted: 14.80%
+Temperature: 0.16
+Percentage which reacted: 14.40%
+Temperature: 0.17
+Percentage which reacted: 14.80%
+Temperature: 0.18
+Percentage which reacted: 12.80%
+Temperature: 0.19
+Percentage which reacted: 18.00%
+Temperature: 0.20
+Percentage which reacted: 19.20%
+
+----------- After normal dist addition ---------------
+Temperature: 0.10
+Percentage which reacted: 13.20%
+Temperature: 0.11
+Percentage which reacted: 16.80%
+Temperature: 0.12
+Percentage which reacted: 13.20%
+Temperature: 0.13
+Percentage which reacted: 23.60%
+Temperature: 0.14
+Percentage which reacted: 24.00%
+Temperature: 0.15
+Percentage which reacted: 24.40%
+Temperature: 0.16
+Percentage which reacted: 24.00%
+Temperature: 0.17
+Percentage which reacted: 24.80%
+Temperature: 0.18
+Percentage which reacted: 21.60%
+Temperature: 0.19
+Percentage which reacted: 30.00%
+Temperature: 0.20
+Percentage which reacted: 29.60%
+
+----------- After additional data output --------------
+Activation Energy: 75 kJ
+Temperature: 0.10
+Percentage which reacted: [ 0.    6.72 11.84 15.04 17.28 18.56 19.36 20.56 21.6  23.92 24.24 23.92  24.   23.76 24.   23.12 22.32 22.88 21.68 22.4  22.32]%
+Temperature: 0.11
+Percentage which reacted: [ 0.    8.8  13.84 17.44 20.16 22.56 23.36 24.8  25.84 26.4  26.8  27.2  27.2  27.68 27.44 27.68 28.08 27.92 28.08 27.12 27.36]%
+Temperature: 0.12
+Percentage which reacted: [ 0.   10.4  16.16 21.6  23.68 27.04 28.56 29.44 30.48 31.76 30.48 30.8  31.68 32.56 32.96 33.68 33.84 33.76 33.92 33.36 32.32]%
+Temperature: 0.13
+Percentage which reacted: [ 0.   11.6  19.28 23.92 28.16 29.84 32.72 33.84 34.88 35.68 36.32 36.32 37.04 36.48 35.76 35.68 34.96 34.72 35.44 35.28 36.16]%
+Temperature: 0.14
+Percentage which reacted: [ 0.   14.08 22.   27.28 32.   33.84 36.24 38.4  37.76 39.68 40.24 40.24 39.44 39.52 40.24 40.08 39.84 40.48 39.44 39.04 38.72]%
+Temperature: 0.15
+Percentage which reacted: [ 0.   16.24 24.72 31.04 35.28 36.56 38.8  41.12 42.72 43.28 44.24 44.32  43.76 45.28 45.52 45.76 45.76 44.64 44.56 43.84 44.32]%
+Temperature: 0.16
+Percentage which reacted: [ 0.   17.92 28.24 35.2  39.12 42.08 44.64 45.12 46.16 45.92 46.48 47.2  47.2  47.44 46.48 46.56 46.8  46.08 46.8  46.56 45.36]%
+Temperature: 0.17
+Percentage which reacted: [ 0.   19.2  30.08 36.48 40.88 42.08 43.92 44.48 45.68 46.64 46.88 46.48  45.12 45.04 44.88 44.48 44.4  44.48 44.32 43.84 43.2 ]%
+Temperature: 0.18
+Percentage which reacted: [ 0.   20.8  34.   40.   44.24 47.28 49.44 52.08 50.72 50.8  51.52 51.92  52.24 52.8  52.72 52.88 51.28 50.88 50.4  48.72 48.56]%
+Temperature: 0.19
+Percentage which reacted: [ 0.   21.6  31.76 38.56 43.76 47.76 50.08 50.48 51.76 52.08 52.64 54.08  54.   53.76 54.4  53.6  53.52 52.16 51.92 51.36 50.32]%
+Temperature: 0.20
+Percentage which reacted: [ 0.   22.72 34.4  41.44 45.2  49.44 51.68 52.08 52.   53.2  54.32 54.64  54.72 54.48 54.8  55.44 54.72 54.4  53.92 53.2  51.84]%
+
+Activation Energy: 100 kJ
+Temperature: 0.10
+Percentage which reacted: [ 0.    3.28  6.08  7.84  9.6  10.48 11.04 12.08 12.96 13.68 14.64 15.2 15.76 16.24 16.08 16.16 15.6  16.4  16.16 15.84 15.6 ]%
+Temperature: 0.11
+Percentage which reacted: [ 0.    4.96  8.8  11.76 13.36 14.72 16.8  17.84 18.56 19.12 19.76 21.2 21.2  21.36 21.6  21.68 21.76 21.04 20.4  20.8  20.48]%
+Temperature: 0.12
+Percentage which reacted: [ 0.    6.72 12.24 14.88 17.36 20.72 21.84 22.8  24.56 25.2  25.36 25.44 25.44 25.04 24.64 25.36 24.08 23.76 24.4  24.8  23.84]%
+Temperature: 0.13
+Percentage which reacted: [ 0.    8.24 13.04 17.68 20.64 22.32 25.12 26.   26.88 27.84 27.52 28.8  29.04 29.52 29.68 29.44 29.6  28.72 29.12 28.8  29.6 ]%
+Temperature: 0.14
+Percentage which reacted: [ 0.    9.6  16.8  21.92 25.68 27.92 29.68 31.52 31.76 32.   32.48 31.84 34.08 33.76 33.76 33.44 33.44 34.   33.6  32.8  31.76]%
+Temperature: 0.15
+Percentage which reacted: [ 0.   13.12 21.68 26.08 29.76 31.36 32.4  34.96 34.32 34.88 35.36 35.68 36.16 35.68 34.8  35.28 34.32 35.2  35.92 36.24 37.36]%
+Temperature: 0.16
+Percentage which reacted: [ 0.   14.8  23.92 29.04 32.96 35.52 37.36 38.72 38.64 38.96 39.92 39.6  39.44 39.12 38.96 39.2  39.28 38.88 38.8  38.32 38.24]%
+Temperature: 0.17
+Percentage which reacted: [ 0.   15.12 24.56 30.8  36.72 38.88 41.36 41.76 42.8  42.48 42.32 42.8  44.08 43.04 41.84 42.64 42.32 42.16 42.24 41.6  42.64]%
+Temperature: 0.18
+Percentage which reacted: [ 0.   17.44 29.36 36.48 41.12 42.24 44.32 45.92 47.2  46.56 46.32 46.48  45.92 46.   46.64 46.88 46.16 45.28 44.56 43.52 43.76]%
+Temperature: 0.19
+Percentage which reacted: [ 0.   17.84 30.24 36.48 40.   43.12 45.04 47.28 47.6  48.48 48.88 49.76  49.76 49.12 48.16 48.24 48.88 47.52 47.84 48.16 47.68]%
+Temperature: 0.20
+Percentage which reacted: [ 0.   21.68 30.96 38.24 42.72 46.48 49.28 49.44 50.48 51.2  50.88 52.24  52.24 52.24 51.68 50.32 50.64 50.96 49.76 48.8  48.08]%
+
+Activation energy: 150 kJ
+Temperature: 0.10
+Percentage which reacted: [ 0.    0.56  1.6   1.76  2.8   3.44  4.24  5.2   5.04  5.2   5.52  5.44  4.88  5.28  5.92  6.08  6.08  6.    6.4   6.8   6.72]%
+Temperature: 0.11
+Percentage which reacted: [ 0.    0.88  2.24  3.36  4.8   5.36  5.84  6.32  7.28  8.    8.56  9.28  9.68 10.08  9.84 10.72 10.24  9.92 10.08 10.    9.76]%
+Temperature: 0.12
+Percentage which reacted: [ 0.    2.72  5.04  7.12  8.48 10.24 10.96 11.92 12.4  12.88 13.04 13.84 14.08 14.   13.6  13.6  14.08 13.6  13.6  13.28 13.6 ]%
+Temperature: 0.13
+Percentage which reacted: [ 0.    4.    6.56  8.88 11.12 12.4  13.44 14.56 15.52 16.32 16.88 16.72 16.64 16.8  16.8  17.52 17.6  17.52 17.76 17.28 17.84]%
+Temperature: 0.14
+Percentage which reacted: [ 0.    6.96 11.6  14.64 16.72 18.16 18.88 19.84 20.64 20.96 19.84 20.32 20.96 21.04 21.12 21.84 22.72 22.64 23.84 22.8  22.72]%
+Temperature: 0.15
+Percentage which reacted: [ 0.    7.68 12.24 15.6  18.48 20.4  21.12 21.68 22.56 23.12 23.36 23.84 23.2  24.64 24.64 24.96 24.96 24.72 24.64 24.8  23.76]%
+Temperature: 0.16
+Percentage which reacted: [ 0.    9.36 15.28 17.6  20.72 22.96 24.24 26.72 26.96 26.8  27.2  28.32 28.16 28.32 28.88 27.92 28.88 28.56 28.88 28.48 28.56]%
+Temperature: 0.17
+Percentage which reacted: [ 0.   11.92 17.76 22.16 25.2  28.16 30.32 31.52 32.16 33.12 33.76 33.92 33.44 33.84 34.   33.76 34.4  35.36 34.56 33.28 33.04]%
+Temperature: 0.18
+Percentage which reacted: [ 0.   12.72 21.12 26.08 28.48 30.64 32.48 33.68 34.72 35.6  36.48 35.92 35.76 35.44 36.   35.68 36.   36.32 36.56 36.56 36.56]%
+Temperature: 0.19
+Percentage which reacted: [ 0.   14.   23.84 29.12 31.6  35.12 38.32 39.12 39.36 39.84 40.4  40.48 39.12 39.28 37.68 37.6  37.36 38.16 38.48 38.08 36.88]%
+Temperature: 0.20
+Percentage which reacted: [ 0.   15.12 24.  30.16 33.84 37.68 39.84 41.2  42.16 43.6  42.48 42.88  43.6  42.72 43.12 42.72 42.4  42.24 41.44 41.6  41.92]%
